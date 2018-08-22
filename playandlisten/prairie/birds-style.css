@@ -1,0 +1,46 @@
+/* Стиль для страницы - Меню раздела: "Изучение и охрана природы" */
+
+body {
+	background-image: url(../images/prairie.jpg);
+	overflow: hidden;
+}
+
+strong {
+	text-align: center;
+	font-size: 250%;
+	font-family: Arial;
+	color: white;
+}
+
+p {
+	text-align: center;
+}
+
+.one {
+	width: 100%;
+	vertical-align: center;
+	text-align: center;
+	background-color: #CFC023;
+}
+
+.two {
+	width: 100%;
+	margin:auto;
+	table-layout: fixed;
+}
+
+img {
+	border: none;
+}
+
+#person {
+	text-decoration: none;
+}
+
+#person:active {
+	text-decoration: none;
+}
+
+#person:visited {
+	text-decoration: none;
+}

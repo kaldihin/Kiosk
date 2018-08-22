@@ -1,0 +1,66 @@
+﻿/* Стиль для страницы - Меню раздела: "Изучение и охрана природы" */
+
+body {
+	background-image: url(images/clouds.png);
+	overflow: hidden;
+}
+
+strong {
+	text-align: center;
+	font-size: 280%;
+	font-family: Arial;
+	color: white;
+}
+
+p {
+	text-align: center;
+	background-color: #20F47F;
+	font-size: 200%;
+	font-family: Arial;
+	color: black;
+	border: 2px solid black;
+	border-radius: 20px 20px 20px 20px;
+	padding: 70px 0px 70px 0px;
+}
+
+a {
+	outline: none;
+}
+
+img {
+	border: none;
+}
+
+#forest {
+	background-color: #85DF70;
+}
+
+#prairie {
+	background-color: #CFC023;
+}
+
+#water {
+	background-color: #40B8F0;
+}
+
+.one {
+	width: 100%;
+	vertical-align: center;
+	text-align: center;
+}
+
+.two {
+	width: 40%;
+}
+
+#links {
+	text-decoration: none;
+}
+
+#links:active {
+	text-decoration: none;
+}
+
+#links:visited {
+	text-decoration: none;
+}

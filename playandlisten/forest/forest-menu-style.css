@@ -1,0 +1,65 @@
+﻿/* Стиль для страницы - Подменю раздела: "Изучение и охрана природы" */
+
+body {
+	background-image: url(../images/forest.jpg);
+	overflow: hidden;
+}
+
+strong {
+	text-align: center;
+	vertical-align: center;
+	font-size: 250%;
+	font-family: Arial;
+	color: white;
+}
+
+p {
+	text-align: center;
+	background-color: #85DF70;
+	font-size: 150%;
+	font-family: Arial;
+	color: black;
+	border: 2px solid black;
+	border-radius: 20px 20px 20px 20px;
+	padding: 25px 0px 25px 0px;
+	margin: 25px 10px 25px 10px;
+
+}
+
+a {
+	outline: none;
+}
+
+img {
+	border: none;
+}
+
+.one {
+	width: 100%;
+	vertical-align: center;
+	text-align: center;
+	background-color: #85DF70;
+}
+
+.two {
+	width: 100%;
+	margin:auto;
+	table-layout: fixed;
+}
+
+.three {
+	width: 70%;
+	table-layout: fixed;
+}
+
+#person {
+	text-decoration: none;
+}
+
+#person:active {
+	text-decoration: none;
+}
+
+#person:visited {
+	text-decoration: none;
+}

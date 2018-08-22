@@ -1,0 +1,64 @@
+﻿/* Стиль для страницы помощи */
+
+body {
+  background-color: #5AA2EC;
+  color: #2C2727;
+  font-family: Arial;
+  overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  font-size: 220%;
+  color: white;
+  padding: 20px 184px 20px 0px;
+  margin-bottom: 20px 20px 20px 184px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 250%;
+}
+
+p {
+  text-align: left;
+  font-size: 300%;
+  margin: 10px 0px 50px 0px;
+  text-indent: 100px;
+  padding: 20px;
+}
+
+img {
+  border: none;
+}
+
+#textimg {
+  width: 180px;
+  height: 80px;
+}
+
+table {
+  width: 100%;
+}
+
+tr, td {
+  font-size: 180%;
+  text-align: center;
+  vertical-align: center;
+  margin: 10px 10px 10px 10px;
+  padding: 15px 15px 15px 15px;
+}
+
+#left_text {
+  text-align: left;
+}
+
+#other {
+  text-align: center;
+  color: #FFFEFF;
+  line-height: 2;
+}
+
+#mainmenu-button {
+  float: left;
+}

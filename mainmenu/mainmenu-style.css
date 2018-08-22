@@ -1,0 +1,28 @@
+﻿/* Стиль для страницы - Меню раздела: "Изучение и охрана природы" */
+
+body {
+	background: url(images/background.png);
+	overflow: hidden;
+}
+
+img {
+	border: none;
+}
+
+table.one {
+	width: 100%;
+	text-align: center;
+	vertical-align: center;
+	font-size: 250%;
+	font-family: Times new roman;
+	color: black;
+}
+
+table.two {
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	vertical-align: center;
+	padding-right: 100px;
+	padding-left: 100px;
+}

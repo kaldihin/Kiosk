@@ -1,0 +1,28 @@
+﻿/* Стиль для приветственной страницы киоска */
+
+body {
+	background: url(images/background.png) no-repeat;
+	overflow: hidden;
+	background: cover;
+}
+
+img {
+	border: none;
+}
+
+table.one {
+	table-layout: fixed;
+	width: 100%;
+	text-align: center;
+	vertical-align: center;
+	font-size: 250%;
+	font-family: Times new roman;
+	color: black;
+	height: 150px;
+}
+
+#enter-button {
+	position: absolute;
+	left: 200px;
+	bottom: 150px;
+}
